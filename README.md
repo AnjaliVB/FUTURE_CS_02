@@ -34,3 +34,19 @@ Phishing is a cybercrime where attackers masquerade as reputable sources via ema
 
 <h2></h2>
 <h3>Tools Used</h3>
+
+<ul>
+  <li><b>MXToolbox for email header analysis</b>: MXToolbox is a free online tool widely used by IT and cybersecurity professionals to troubleshoot email infrastructure and check domain health. It offers real-time insights into DNS configurations, email deliverability issues, blacklist status, and mail server availability.    
+    <ul>
+      <b>MXToolbox supports a wide range of functions, but its core capabilities fall into five categories:    </b>
+      <li>DNS Record Lookup: Retrieve and validate DNS entries, including MX (mail exchanger), A (address), and TXT (SPF, DMARC).</li>
+      <li>SMTP Diagnostics: This test will connect to a mail server via SMTP and perform a simple Open Relay Test.</li>
+      <li>Blacklist Check: Scan your IP address or domain across more than 100 DNS-based blacklists (DNSBLs) to assess whether your email might be blocked or flagged as spam.</li>
+      <li>Email Header Analysis: This tool will translate email headers into a human readable format and analyze the results and path of the email, which can provide informative data on anti-spam results and more.</li>
+      <li>Monitoring and Alerts: Set up alerts for when domains get blacklisted and more.</li>
+    </ul>
+  </li>
+  <li>
+    <b>AbuseIPDB</b>: AbuseIPDB is a popular crowdsourced database used by webmasters and system administrators to report and identify IP addresses involved in malicious activity, such as hacking, spamming, or DDoS attacks. It helps secure networks by providing a blacklist API to check IP reputations and report threats, aiming to make the internet safer. 
+  </li>
+</ul>
